@@ -8,7 +8,7 @@ Ps4 için oluşturduğunuz şifresiz oyun paketleri için modifiye edilmiş patc
 
 Mods klasörü boş bırakılarak birbirine uyumlu olmayan oyun paketi ve patch dosyalarını uyumlu hale getirmek için de kullanılabilir.
 
-Aracın Reddit Linki:
+Aracın çalışması için gerekli olan diğer yazılımların da dahil edilip paketlenmiş halini Reddit linkinde bulabilirsiniz:
 https://www.reddit.com/r/PS4TurkceYama/comments/c9gnh5/ps4_yama_kurulum_arac%C4%B1/
 
 
