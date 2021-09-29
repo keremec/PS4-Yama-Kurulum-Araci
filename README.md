@@ -1,5 +1,9 @@
 # PS4-Yama-Kurulum-Araci
 
+
+![Ekran görüntüsü 2021-09-29 172339](https://user-images.githubusercontent.com/50713500/135288515-e58e7f7a-7414-43d3-8e1f-df60bbbd7abd.jpg)
+
+
 Ps4 için oluşturduğunuz şifresiz oyun paketleri için modifiye edilmiş patch dosyaları oluşturmaya yarayan bir script. 
 
 Mods klasörü boş bırakılarak birbirine uyumlu olmayan oyun paketi ve patch dosyalarını uyumlu hale getirmek için de kullanılabilir.
